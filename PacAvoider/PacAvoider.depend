@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1540488568 source:c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\ghost.cpp
+	"plotter.h"
+	"Ghost.h"
+	<string>
+	<fstream>
+
+1540426749 c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\plotter.h
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+
+1540488568 c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\ghost.h
+	"PacMan.h"
+
+1540430315 c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\pacman.h
+	"plotter.h"
+	"point.h"
+
+1448233176 c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\point.h
+
+1540493717 source:c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<cmath>
+	"PacMan.h"
+	"Ghost.h"
+	"map.h"
+
+1540426874 c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\map.h
+	"plotter.h"
+
+1449024474 source:c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\map.cpp
+	"map.h"
+
+1449005405 source:c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\pacman.cpp
+	"PacMan.h"
+	<string>
+	<fstream>
+
+1448233161 source:c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\point.cpp
+	"point.h"
+	<cmath>
+
+1540426742 source:c:\users\xaxai\documents\codeblocks projects\pacavoider\groupprojdev\plotter.cpp
+	<iostream>
+	"plotter.h"
+
+1554319544 source:a:\documents\c++ projects\pacavoider\groupprojdev\ghost.cpp
+	"plotter.h"
+	"Ghost.h"
+	<string>
+	<fstream>
+
+1554320127 a:\documents\c++ projects\pacavoider\groupprojdev\plotter.h
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+
+1554319891 a:\documents\c++ projects\pacavoider\groupprojdev\ghost.h
+	"PacMan.h"
+
+1540433916 a:\documents\c++ projects\pacavoider\groupprojdev\pacman.h
+	"plotter.h"
+	"point.h"
+
+1448236778 a:\documents\c++ projects\pacavoider\groupprojdev\point.h
+
+1554319835 source:a:\documents\c++ projects\pacavoider\groupprojdev\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<cmath>
+	"PacMan.h"
+	"Ghost.h"
+
+1540430476 a:\documents\c++ projects\pacavoider\groupprojdev\map.h
+	"plotter.h"
+
+1449028076 source:a:\documents\c++ projects\pacavoider\groupprojdev\map.cpp
+	"map.h"
+
+1449009006 source:a:\documents\c++ projects\pacavoider\groupprojdev\pacman.cpp
+	"PacMan.h"
+	<string>
+	<fstream>
+
+1554320127 source:a:\documents\c++ projects\pacavoider\groupprojdev\plotter.cpp
+	<iostream>
+	"plotter.h"
+
+1448236762 source:a:\documents\c++ projects\pacavoider\groupprojdev\point.cpp
+	"point.h"
+	<cmath>
+
+1554319544 source:a:\documents\c++ projects\pacavoider\pacavoider\ghost.cpp
+	"plotter.h"
+	"Ghost.h"
+	<string>
+	<fstream>
+
+1554320127 a:\documents\c++ projects\pacavoider\pacavoider\plotter.h
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+
+1554319891 a:\documents\c++ projects\pacavoider\pacavoider\ghost.h
+	"PacMan.h"
+
+1540433916 a:\documents\c++ projects\pacavoider\pacavoider\pacman.h
+	"plotter.h"
+	"point.h"
+
+1448236778 a:\documents\c++ projects\pacavoider\pacavoider\point.h
+
+1554319835 source:a:\documents\c++ projects\pacavoider\pacavoider\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<cmath>
+	"PacMan.h"
+	"Ghost.h"
+
+1449028076 source:a:\documents\c++ projects\pacavoider\pacavoider\map.cpp
+	"map.h"
+
+1540430476 a:\documents\c++ projects\pacavoider\pacavoider\map.h
+	"plotter.h"
+
+1449009006 source:a:\documents\c++ projects\pacavoider\pacavoider\pacman.cpp
+	"PacMan.h"
+	<string>
+	<fstream>
+
+1554320127 source:a:\documents\c++ projects\pacavoider\pacavoider\plotter.cpp
+	<iostream>
+	"plotter.h"
+
+1448236762 source:a:\documents\c++ projects\pacavoider\pacavoider\point.cpp
+	"point.h"
+	<cmath>
+
